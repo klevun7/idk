@@ -1,8 +1,11 @@
-# idk
+<<<<<<< HEAD
+# idk(I don't know)
 Restaurant Reccomendations using Yelp Fusion API.
 Providing fast restaurant reccomendations when
 you don't know what to eat.
 Built with ReactJS, TailwindCSS, Axios, and Supabase
+=======
+>>>>>>> a964337bc0e97fe02450abb24d2e792874413fc7
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
