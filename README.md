@@ -1,5 +1,5 @@
-# idk
-restaurant reccomendations using Yelp Fusion API
+# idk(i don't know)
+restaurant recommendations using Yelp Fusion API. Providing restaurant recommendations based on your favorite restaurants.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
